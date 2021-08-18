@@ -1,0 +1,9 @@
+C:\Users\SriMadhaven\source\repos\text\text\bin\Debug\netcoreapp2.0\cosmos\text.deps.json
+C:\Users\SriMadhaven\source\repos\text\text\bin\Debug\netcoreapp2.0\cosmos\text.dll
+C:\Users\SriMadhaven\source\repos\text\text\bin\Debug\netcoreapp2.0\cosmos\text.pdb
+C:\Users\SriMadhaven\source\repos\text\text\obj\Debug\netcoreapp2.0\cosmos\text.AssemblyInfoInputs.cache
+C:\Users\SriMadhaven\source\repos\text\text\obj\Debug\netcoreapp2.0\cosmos\text.AssemblyInfo.cs
+C:\Users\SriMadhaven\source\repos\text\text\obj\Debug\netcoreapp2.0\cosmos\text.csproj.CoreCompileInputs.cache
+C:\Users\SriMadhaven\source\repos\text\text\obj\Debug\netcoreapp2.0\cosmos\text.dll
+C:\Users\SriMadhaven\source\repos\text\text\obj\Debug\netcoreapp2.0\cosmos\text.pdb
+C:\Users\SriMadhaven\source\repos\text\text\obj\Debug\netcoreapp2.0\cosmos\text.csprojAssemblyReference.cache
